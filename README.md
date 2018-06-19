@@ -86,9 +86,16 @@
 	- GistBox
 	- IFTTT
 	- Zapier
-	- Jupyter Notebooks
-		- http://jupyter.org/
-		- http://nbviewer.jupyter.org/
+	- Notebooks
+		- Jupyter
+			- http://jupyter.org/
+			- http://nbviewer.jupyter.org/
+		- Computational Essays
+			- http://blog.stephenwolfram.com/2017/11/what-is-a-computational-essay/
+		- https://idyll-lang.org/
+		- http://observablehq.com
+		- https://glitch.com/
+		- https://runkit.com
 	- RunKit
 	- Wolfram
 	- kaggle.com
